@@ -27,9 +27,6 @@ https://github.com/JHU-Project-3/final-project/blob/main/Presentation/TEAM%20Str
 - As a user, I want to be able to be able to add a video category.
 - As a user, I want to be able to chat or comment on a video to collaborate with others.
 
-## Image:
-![Stream concert (2)](https://user-images.githubusercontent.com/80861572/139608039-f383cd64-795d-416f-a89a-868cc83f0918.png)
-
 ## Resources:
 - React
 - GraphQL
